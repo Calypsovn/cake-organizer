@@ -1,0 +1,22 @@
+header {
+    text-align: center;
+}
+
+.choose ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.choose ul li {
+    display: flex;
+    flex-direction: column;
+}
+
+.choose img {
+    width: 300px;
+}
+
+ul {
+    list-style: none;
+}
