@@ -14,9 +14,13 @@ header {
 }
 
 .choose img {
-    width: 300px;
+    width: 200px;
 }
 
 ul {
     list-style: none;
+}
+
+button {
+    cursor: pointer;
 }
